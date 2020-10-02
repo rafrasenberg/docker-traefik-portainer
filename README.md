@@ -12,5 +12,5 @@ Detailed explanation how to use this in my blog post:
 ```
 $ git clone https://github.com/rafrasenberg/docker-traefik-portainer ./src
 $ cd src/core
-$ docker-compose -d
+$ docker-compose up -d
 ```
