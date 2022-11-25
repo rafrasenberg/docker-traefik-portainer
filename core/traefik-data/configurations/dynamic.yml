@@ -8,7 +8,6 @@ http:
         stsIncludeSubdomains: true
         stsPreload: true
         stsSeconds: 31536000
-
     user-auth:
       basicAuth:
         users:
